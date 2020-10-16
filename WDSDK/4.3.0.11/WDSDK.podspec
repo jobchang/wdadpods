@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = "4.3.0.11"
   spec.summary      = "A short description of WDSDK."
   spec.description  = <<-DESC
-  			appic sdk by wd ad
+  			appic sdk by wd ad test
                    DESC
 
   spec.homepage     = "https://www.baidu.com"
